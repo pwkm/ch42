@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
+	"pckg/models"
 
 	"github.com/julienschmidt/httprouter"
 )
